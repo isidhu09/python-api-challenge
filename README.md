@@ -1,7 +1,7 @@
 # python-api-challenge
 
 Part 1: WeatherPy
-Created a Python script to visualize the weather of 500+ cities of varying distance from the equator
+* Created a Python script to visualize the weather of 500+ cities of varying distance from the equator
 * Used a Python library and the OpenWeatherMap API to create a representative model of weather across cities
 
 Created a series of scatter plots to showcase the following relationships:
